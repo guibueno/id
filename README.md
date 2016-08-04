@@ -6,7 +6,7 @@
 
 ## Design para educação: um guia ilustrado e no level easy
 
-Uma rápida introdução a alguns conceitos e estratégias do *Design Instrucional*, a fim de estimular o diálogo, a colaboração e (por que não?) a fusão entre as áreas da Educação e do Design de Jogos.
+Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design Instrucional*. Tem como finalidade estimular o diálogo, a colaboração e a fusão (por que não?) entre as áreas da Educação e do Design de Jogos.
 
 ### [Introdução](intro.md)
 
