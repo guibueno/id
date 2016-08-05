@@ -17,7 +17,7 @@ Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design 
 * Aprender jogando.
 * História das Mídias para Educação.
 
-### Pesquisa
+### [Pesquisa](pesquisa.md)
 
 * Literatura, entrevistas, panorama
 * HCD: ouvindo o público-alvo

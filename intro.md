@@ -34,7 +34,16 @@ Some instructions are not training, like Math and Reading, which are not designe
 
 Teaching: learning experiences facilitated by a human being. Not always instruction. Always education.
 
+Sabendo disso, o que é, afinal, um jogo educativo? São só aqueles que estão na Play Store como educativos? Mario é educativo? Age of Empires é educativo?
+
+Podemos fazer estes pontos, sim. Citar artigo de CogSci I (modelos de análise).
+
 ### Escolas, como surgiram?
+
+* Modern Schools
+* Historical overview
+* Universal characteristics: Grading, Sequence; Permanent buildings;
+* Standards; Will school reform fail? Project-based learning
 
 https://docs.google.com/document/d/1kwIWl_7IKR-cJRcS08yGqFkRi7Nf6RAU0M0IeHbS-mE/edit
 
