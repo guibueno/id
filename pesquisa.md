@@ -77,6 +77,16 @@ Deliver
 * Pensar desde o começo sobre acessibilidade.
 * Universal Design.
 
+The Technium. Triumph of the Default
+Triumph of the Default
+
+“Anything manufactured must make a guess about its presumed buyer and their motivations; these assumptions are naturally designed into the technology. The larger the scale of the system, the more assumptions it has to make.”
+
+“The specter of 99 varieties of mustard on the supermarket shelf, or 2,356 options in your health plan, or 56,000 possible hairdos for your avatar in a virtual world produces massive indecision and paralysis. The amazing solution to this problem of debilitating over-abundant choice are defaults. Defaults allow us to choose when to choose.”
+
+“But defaults are “sticky.” Many psychological studies have shown that the tiny bit of extra effort needed to alter a default is enough to dissuade most people from bothering, so they stick to the default, despite their untapped freedom.”
+
+
 ### Como esse conteúdo é aprendido?
 
 * Goals and Objectivse
