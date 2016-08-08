@@ -1,5 +1,5 @@
 # Design para Educação
-## um guia ilustrado e no level easy
+**um guia ilustrado e no level easy, por Gui Bueno**
 
 Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design Instrucional*. Tem como finalidade estimular o diálogo, a colaboração e a fusão (por que não?) entre as áreas da Educação e do Design de Jogos.
 
@@ -51,3 +51,5 @@ Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design 
 * Entrevistas clínicas
 
 ### Adicionar muitos exemplos.
+
+### [Agenda](agenda.md)
