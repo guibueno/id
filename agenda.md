@@ -9,3 +9,17 @@
 *[16/06] Apresentar*  
 
 **Total:** 5 semanas restantes
+
+## SCRUM
+
+### [09/08] CogSci
+* Dificuldade em integrar a parte de ciências cognitivas com a parte prática de ferramentas de design.
+* Também foi muito difícil pensar em como apresentar teorias cognitivas sem entrar em especificidades.
+* Parece que isso foi resolvido através de uma abordagem mais teórica/histórica, via Gardner/Guenther.
+* Ainda assim, não está claro como trarei essa parte teórica e conceitual para uma prática interativa.
+
+### [10/08] Melhorias
+* Terminar sessão de CogSci e tentar fazer um sentido dela toda.
+* Surgimento das escolas, em introdução, por Michael Cole.
+* Finalizar ferramentas de prototipação em Design-I.
+* Adicionar novas informações na parte de Pesquisa, conforme indicado.

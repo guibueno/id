@@ -35,7 +35,7 @@ Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design 
 * A arte do feedback
 * Brainstorm no sentido clássico
 
-### Teorias cognitivas I
+### [Teorias Cognitivas](cogsci.md)
 
 * Guarda-chuvas teóricos
 * **Exemplo**: Beekeeper
