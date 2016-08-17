@@ -53,6 +53,3 @@ Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design 
 ### Adicionar muitos exemplos.
 
 ### [Agenda](agenda.md)
-
-{{ site.title }}
-{{ page.title }}

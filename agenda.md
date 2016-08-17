@@ -24,6 +24,15 @@
 * Finalizar ferramentas de prototipação em Design-I.
 * Adicionar novas informações na parte de Pesquisa, conforme indicado.
 
-### [17/08] Narrativa Geral das Sessões
+### [17/08] Apresentação Teste: Lo-fi
+* Introdução está longa, mas achei interessante. Poderia ser o tema da fala inteira.
+* Dificuldade em migrar da teoria para a prática. Talvez um cenário? Talvez exemplos de jogos?
+
+### [18/08] Narrativa Geral das Sessões
+* Encontrar exemplos de jogos educativos.
+* Encontrar exemplos de editais para a educação.
+* Ponderar se parte da introdução não pode se encaixar no final **(estratégia de o que é mais importante, primeiro!)**
+
+### Pendências sem Data
 * Finalizar ferramentas de prototipação em Design-I.
 * Adicionar um resumo inicial em casa sessão, explicando de onde vem e para onde vai.
