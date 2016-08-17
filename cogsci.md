@@ -1,5 +1,21 @@
 # Teorias Cognitivas
 
+### Teoria, Hipótese, Empiricismo, etc (Andrew)
+
+* Teorias: trazem a perspectiva histórica do campo, explicam as decisões baseadas em pesquisa.
+* Construtivismo: teoria racionalista, não empiricista. Ou seja:
+* "Conhecimento é construído, não transmitido", por isso é importante que quem aprende esteja ativo e tenha experiências.
+* Social constructivism: grupos colaborativos
+* Contextualismo: aprender ocorre em contextos realistas, onde a performance é o modo de avaliação.
+* Mais como uma filosofia que uma teoria: difícil ter bases para operação
+* Empiricismo: experiência< Locke (1690), tabula rasa
+* Pragmatismo: meio-termo entre empiricismo e construtivismo< produtivo
+* Teorias: descritivas ou perscritivas; não uma hipótese
+* Learning theories: principalmente descritivas; mudança permanente.
+* Behaviourism: Pavlov, JB Watson, Skinner, tudo pode ser observado.
+* Teorias cognitivas de aprendizagem são dominates no ramo de *design instrucional*
+* Teorias de desenvolvimento: Piage *estágios), Vygotsky (ZPD)
+
 ### Bases Históricas
 
 * Psicologia cognitiva: como as pessoas adquirem e usam conhecimento.
@@ -41,10 +57,31 @@ Teses
 Essas teses soam familiarres? Pois é, elas não existiriam se o computador não existisse.
 Complexa relação desse campo com computadores: são os computadores que fundamentaram esse modo de pensar e é para criar coisas para computadores que os usamos.
 
+### Problems with the computer metaphor
 
-https://docs.google.com/document/d/1jGTWH6fV3V6aGywC7rK_H-fStHesuPYtQt4Gqfq8INs/edit
-Terminar Guenther
-a partir de *Problems with the computer metaphor*
+* Consenso crescente de que uma coisa não tem tanto a ver com a outra.
+* Um computador, por exemplo, não aumenta sua capacidade com a prática
+* Automatização (menos esforço e atenção necessários conforme se pratica algo) não é intrínseca a computadores
+* Pensamento humano não é necessariamente a manutenção de símbolos, mas a contemplação de ideias (frase referenciável, mas meio vaga)
+
+### Máquinas de redes neurais
+
+* Modelos de distribuição paralela de processamento
+* Connectivista
+* Modular? Talvez. Isso foge já bastante à minha área.
+* As características mais importantes são:
+* Não há uma unidade de processo central, ou seja, uma CPU
+* Muitas unidades de processamento que, por estarem em rede, quando danificadas não prejudiam tanto assim o processo.
+* As redes neurais se desenvolvem através de padrões de input e feedback
+* Não há um local para a memória, mas sim, a memória é distribuída e implícita nas conexões neurais.
+
+### Behaviourism
+
+* Skinnerbox et al. É possível expandir.
+* Watson e Skinner: estímulos do ambiente controlam o comportamento
+* Palavra-chave: reforço (reinforcement), que é o que nos faz beber coca-cola e não suco de tomate ao comer uma pizza (não gostei, explicar melhor)
+* Resposta da psicologia cognitiva: intenção e estímulo nem sempre resultam em ação. Me preocupar com a prova pode me fazer prestar mais atenção a piadas, em vez de estudar.
+* Livre arbítrio: "a gente nunca vai conseguir mapear todos os fatores relevantes que motivam uma decisão", logo não há diferença funcional entre as ideias de que temos um livre poder de decisão e de que o nosso comportamento é completamente determinado pela influencia combinada de muitos fatores que desconhecemos e não conseguimos medir.e factors that determine our behavior” (p. 26).
 
 ### 1960s, por Howards Gardner
 
@@ -67,11 +104,5 @@ Never really accepted
 
 MMGO games and Turtle: you become the characters
 Different kinds of empathy
-
-### Teoria, Hipótese, Empiricismo, etc (Andrew)
-
-### Skinnerbox et al
-
-### Guarda-chuvas teóricos
 
 ### **Exemplo**: Beekeeper
