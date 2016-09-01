@@ -20,3 +20,8 @@ Rettig, M. (1994). Prototyping for tiny fingers 37 (4), 21 - 27.
 
 Moggridge, B. (2007) Prototypes. 682-723
 
+
+
+### Gamification INC
+
+Vianna, Y., Vianna, M., Medina, B., & Tanaka, S. (2013). Gamification, Inc: como reinventar empresas a partir de jogos.

@@ -1,3 +1,5 @@
+Vianna, Y., Vianna, M., Medina, B., & Tanaka, S. (2013). Gamification, Inc: como reinventar empresas a partir de jogos.
+
 "No caso dos seres humanos ancestrais, uma das principais maneiras de conseguir alimento basicamente consistia em atirar objetos que estivessem à mão na direção do que lhes apetecia. Deve ser por isso que até hoje adoramos jogar coisas: pedras no mar, lanças, martelos, bolas de basquete, vôlei, golfe, etc." (p. 15)
 
 "Sendo assim, é compreensível que tenhamos criado jogos, visto que eles saciam de modo mais simples, rápido, claro e eficiente essa constante busca que nos assola por conquistar ou cumprir objetivos" (p. 17)
@@ -24,7 +26,9 @@
 
 _Checar jogo: Planning Poker_ (p. 61)
 
-Game mechanics: [https://techcrunch.com/2010/08/25/scvngr-game-mechanics/](https://techcrunch.com/2010/08/25/scvngr-game-mechanics/)
-
 ![p. 99](gamification-inc-photos/99.jpg)
+(p. 99), baseado em [SCVNGR Game Mechanics](https://techcrunch.com/2010/08/25/scvngr-game-mechanics/)
+
 ![p. 100](gamification-inc-photos/100.jpg)
+(p. 100), baseado em:
+Radoff, J. (2011). *Game on: energize your business with social media games*. John Wiley & Sons.
