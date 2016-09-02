@@ -1,4 +1,4 @@
-Vianna, Y., Vianna, M., Medina, B., & Tanaka, S. (2013). Gamification, Inc: como reinventar empresas a partir de jogos.
+*Vianna, Y., Vianna, M., Medina, B., & Tanaka, S. (2013). Gamification, Inc: como reinventar empresas a partir de jogos.*
 
 "No caso dos seres humanos ancestrais, uma das principais maneiras de conseguir alimento basicamente consistia em atirar objetos que estivessem à mão na direção do que lhes apetecia. Deve ser por isso que até hoje adoramos jogar coisas: pedras no mar, lanças, martelos, bolas de basquete, vôlei, golfe, etc." (p. 15)
 
