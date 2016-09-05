@@ -8,6 +8,13 @@ Uma rápida introdução a alguns conceitos, métodos e estratégias de *Design 
 
 **Gui Bueno** é formado em Midialogia pela Unicamp e recentemente concluiu seu mestrado em Design de Mídias Educativas Digitais, no MAGNET (Media and Games Network) da New York University. Lá, conviveu com game designers, aprendeu sobre como aprendemos e pesquisou sobre aplicativos de ensino de idiomas. Em sua tese, Gui desenhou, testou e [apresentou](https://www.youtube.com/watch?v=DGmgGfFZpQo) o app que hoje desenvolve: [LanguageBug](http://guibueno.github.io/).
 
+## Apresentação
+
+[http://guibueno.github.com/id/](http://guibueno.github.com/id/)*
+*em construção
+
+## Roteiro
+
 ### [Introdução](intro.md)
 
 * O que é aprender?
