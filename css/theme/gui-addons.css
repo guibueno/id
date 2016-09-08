@@ -1,5 +1,4 @@
 .highlight {
   background: #000;
-  color: white;
-  display: inline;
+  display: inline-block;
 }

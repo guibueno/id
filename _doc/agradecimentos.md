@@ -3,3 +3,5 @@
 * Grama
 
 * Dé
+
+* Bazan
