@@ -1,7 +1,0 @@
-# Agradecimentos
-
-* Grama
-
-* Dé
-
-* Bazan

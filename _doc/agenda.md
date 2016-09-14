@@ -2,13 +2,13 @@
 
 <del>[até 07/08] Rotinizar o planejamento da palestra.</del>  
 **[08/08-14/08] Definir uma clara estrutura do que eu vou dizer.**  
-[15/08-21/08] Começar a estruturar melhor exemplos, atividades, fluxos.  
+<del>[15/08-21/08] Começar a estruturar melhor exemplos, atividades, fluxos.  
 [22/08-28/08] Preparar a apresentação em revealjs.  
 [29/09-04/09] Ensaiar e submeter protótipo para pessoas chaves.  
-[05/09-11/09] Revisitar, consertar e finalizar.  
+[05/09-11/09] Revisitar, consertar e finalizar.</del>
 *[16/06] Apresentar*  
 
-**Total:** 5 semanas restantes
+Como de costume, não consegui seguir esta agenda e acabei fazendo a maior parte de última hora.
 
 ## SCRUM
 
@@ -28,11 +28,12 @@
 * Introdução está longa, mas achei interessante. Poderia ser o tema da fala inteira.
 * Dificuldade em migrar da teoria para a prática. Talvez um cenário? Talvez exemplos de jogos?
 
+
 ### [18/08] Narrativa Geral das Sessões
-* Encontrar exemplos de jogos educativos.
-* Encontrar exemplos de editais para a educação.
-* Ponderar se parte da introdução não pode se encaixar no final **(estratégia de o que é mais importante, primeiro!)**
+* <del>Encontrar exemplos de jogos educativos.</del>
+* <del>Encontrar exemplos de editais para a educação.</del>
+* <del>Ponderar se parte da introdução não pode se encaixar no final **(estratégia de o que é mais importante, primeiro!)**</del>
 
 ### Pendências sem Data
-* Finalizar ferramentas de prototipação em Design-I.
-* Adicionar um resumo inicial em casa sessão, explicando de onde vem e para onde vai.
+* <del>Finalizar ferramentas de prototipação em Design-I.</del>
+* <del>Adicionar um resumo inicial em casa sessão, explicando de onde vem e para onde vai.</del>
