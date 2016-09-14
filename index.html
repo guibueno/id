@@ -37,67 +37,90 @@
                 <div class="slides">
 
                     <section data-background="images/intro-rock.jpeg">
-                        <h2 class="highlight in-the-top">Design para Educação</h2>
+                        <h2 class="highlight in-the-top">Design para Educação</h2><br>
                         <p class="highlight in-the-top">por Gui Bueno</p>
                         <h4 class="highlight in-the-bottom">Um guia ilustrado e no level easy</h4>
                     </section>
                     <section>
                         Uma <spam class="fragment highlight-red">rápida</spam> introdução a alguns <spam class="fragment highlight-red">conceitos</spam>, métodos e estratégias de Design Instrucional. Tem como finalidade estimular o <spam class="fragment highlight-red">diálogo</spam>, a colaboração e a fusão (por que não?) entre as áreas da Educação e do Design de Jogos.
                     </section>
-                    <section>
+                    <section data-autoslide="1">
                         <h1 class="fragment">Gui Bueno</h1>
                         <h2>Pecha Kucha 20x20</h2>
                         <p class="fragment">dividido por 2</p>
                     </section>
-                    <section>
-                        <aside class="notes">
-                            Computadores
-                        </aside>
+                    <section data-autoslide="1000">
+                        <h1>
+                            <spam class="fragment">5 </spam>
+                            <spam class="fragment">4 </spam>
+                            <spam class="fragment">3 </spam>
+                            <spam class="fragment">2 </spam>
+                            <spam class="fragment">1 </spam>
+                        </h1>
                     </section>
-                    <section data-background="images/pecha-humanas.jpg">
-                        <aside class="notes">
-                            Ciências Humanas
-                        </aside>
+                    <section data-background="images/pecha-humanas.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Humanas
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
+                    <section data-background="images/pecha-midialogia.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
                             Midialogia
-                        </aside>
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
-                            Arte?
-                        </aside>
-                    </section>
-                    <section>
-                        <aside class="notes">
+                    <section data-background="images/pecha-estrimeiros.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
                             Mídia independente
-                        </aside>
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
-                            Intercâmbio 1
-                        </aside>
+                    <section data-background="  images/pecha-intercambio-1.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Madrid
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
-                            Intercâmbio 2
-                        </aside>
+                    <section data-background="images/pecha-intercambio-2.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Nova Iorque
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
-                            Trampos
-                        </aside>
+                    <section data-background="images/pecha-kids.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Ensino
+                        </h2>
                     </section>
-                    <section>
-                        <aside class="notes">
+                    <section data-background="images/pecha-escoladedados.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Conhecimento Livre
+                        </h2>
+                    </section>
+                    <section data-background="images/pecha-hackathon.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
+                            Hackathona
+                        </h2>
+                    </section>
+                    <section data-background="images/pecha-magnet.jpg" data-autoslide="11500">
+                        <h2 class="highlight">
                             Mestrado
+                        </h2>
+                    </section>
+                    <section data-background="images/intro-writing.png" data-autoslide="11500">
+                        <h1 class="in-the-top" style="color:red;">
+                            E agora?
+                        </h1>
+                    </section>
+                    <section data-autoslide="30000">
+                        <h4>Educação</h4>
+                        <h4>Mídias</h4>
+                        <h4>Idiomas</h4>
+                        <h4>Design</h4>
+                        <h4>Ativismo</h4>
+                        <h4 class="fragment">Incertezas</h4>
+                        <aside class="notes">
+                            Hora de clicar em STOP
                         </aside>
                     </section>
                     <section>
-                        <aside class="notes">
-                            E agora, José?
-                        </aside>
+                        <h2>Jogos?</h2>
                     </section>
 
                     <section>
@@ -184,9 +207,9 @@
                     </section>
                     <section data-background-image="images/education-training.gif">
                         <h2 class="highlight">Treinamento</h2>
-                        <asine class="notes">
+                        <aside class="notes">
                             Treinamento: jogar guitar hero várias vezes até acertar 100% da música.
-                        </asine>
+                        </aside>
                     </section>
                     <section>
                         <h2>Exemplos</h2>
@@ -301,23 +324,24 @@
                 Reveal.initialize({
                         // Controls are the arrow signs in the inferior/right corner
                 // Hitting arrow keys will still control navigation if set false.
-                controls: false,
+                controls: true,
                         
                 // That's the little progress bar in the bottom.
-                progress: false,
+                progress: true,
                 
                 // Global auto-slide parameter, in miliseconds
-                autoSlide: false,
+                autoSlide: 60000,
                 // Set "data-autoslide" parameter to control slide-by-slide timing
                 // Fragments counts as Reveal.next();, so it counts as a slide change
+                
                 // Displays slide number on URL bar
-                history: false,
+                history: true,
                         
                 // Vertical center of slide. Set true for easy/clean/fast.
                 center: true,
                 
                 // Standard CSS effect that rolls links on hover
-                rollingLinks: true,
+                rollingLinks: false,
                 audio: {
                 prefix: 'audio/',   // audio files are stored in the "audio" folder
                 suffix: '.ogg',     // audio files have the ".ogg" ending
