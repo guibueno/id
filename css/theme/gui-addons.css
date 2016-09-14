@@ -2,7 +2,11 @@
   background-color: rgba(0,0,0,0.7);
   display: inline-block;
 }
-.top-header {
+.in-the-top {
+	position: relative;
+	bottom: 200px;
+}
+.in-the-bottom {
 	position: relative;
 	top: 200px;
 }
