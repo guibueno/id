@@ -21,10 +21,15 @@
 * Registro, escrivões, proto-ciência.
 * Revolução industrial e surgimento da escola.
 
-## O que é estudar?
+## Escola moderna
 * Características universais e permanentes da escola.
 * Escolarizando o mundo mostra bem isso, vale assistir.
 * Sistema político e de produção circunstancial.
+
+## 
+
+
+
 
 -
 
