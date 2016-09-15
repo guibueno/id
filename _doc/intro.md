@@ -1,11 +1,19 @@
 # Introdução
 
-## Quem sou eu
+## Quem sou eu?
 * Pecha Kucha: fatos pessoais e acadêmicos.
 * Áreas que costumo/gosto de explorar e discutir.
 * E quanto a jogos? Não sou especialista. Vocês, sim.
-* O que é aprender? Definição de Mayer.
+
+## O que é aprender?
+* Definição de Mayer, dentre tantas outras.
 * Terminologia: Instrução, Educação, Treinamento
+
+## Jogos educativos
+* Votação: é educativo ou não é?
+* Sendo assim, por que alguns jogos são "educativos"?
+  
+## Escolas
 
 
 ## Como aprendemos?
@@ -14,12 +22,6 @@
 
 ## O que é aprender?
 
-
-
-
-
-
-* Jogos educativos são aqueles na Play Store?
 
 ### Escolas, como surgiram?
 

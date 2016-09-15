@@ -14,3 +14,11 @@
 .discreto li {
 	list-style: none;
 }
+.altogether li {
+	list-style: none;
+	text-indent: none;
+	display: inline;
+}
+.hide {
+	display: none;
+}
