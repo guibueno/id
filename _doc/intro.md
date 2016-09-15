@@ -9,18 +9,21 @@
 * Definição de Mayer, dentre tantas outras.
 * Terminologia: Instrução, Educação, Treinamento
 
+## 
+* 
+* 
+
 ## Jogos educativos
 * Votação: é educativo ou não é?
 * Sendo assim, por que alguns jogos são "educativos"?
-  
-## Escolas
 
 
 ## Como aprendemos?
 
 * Reflexão: pense em algo que você saiba bem.
 
-## O que é aprender?
+
+A Educação, como campo, tá preocupada com o APRENDER.
 
 
 ### Escolas, como surgiram?
