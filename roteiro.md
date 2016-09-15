@@ -14,40 +14,51 @@
 ## O que é aprender?
 * Definição de Mayer, dentre tantas outras.
 * Aprendemos sempre e o tempo inteiro.
-* Sere humanos buscam aprender deliberadamente.
+* Seres humanos buscam aprender deliberadamente.
 
-## O que é estudar?
+## O que é escola?
 * Sociedades complexas e especialização.
 * Registro, escrivões, proto-ciência.
 * Revolução industrial e surgimento da escola.
 
-## Escola 
+## O que é estudar?
 * Características universais e permanentes da escola.
-* Sistema político e de produção circunstancial.
 * Escolarizando o mundo mostra bem isso, vale assistir.
-
-## Mídias de educação
-* Por isso que é tão difícil revolucionar a educação.
-* https://docs.google.com/document/d/1sLJ_yJZlaRqpcVEcIuvSfziB6ArMsCzN3ShfF1mcBts/edit
-* De material de suporte a auto-aprenizagem (Moocs)
-
-## Onde começamos a conversar sobre jogos e educação
-* Aprender jogando: tendência, não revolução.
-* Perspectiva crítica: é embaçado mudar a educação. Dentre elas, a de jogos.
-* Está dado o problema. Tá feito o desafio. Provem que eu estou errado.
+* Sistema político e de produção circunstancial.
 
 -
 
-# Jogos Educativos
+# 
+
+
+
+* Nesse contexto todo, eu vim falar de jogos educativos.
+
+* O que vocês acham sobre jogos educativos?
+* Seria simples dizer que será a revolução.
+* Revolucionar a educação é uma tentativa árdua.
+
+
+
+* [Muitas adições e inovações na educação, por motivos diversos](https://docs.google.com/document/d/1sLJ_yJZlaRqpcVEcIuvSfziB6ArMsCzN3ShfF1mcBts/edit).
+* De material de suporte a auto-aprenizagem (Moocs)
+
+## Como aprendemos?
+* Reflexão: pense em algo que você saiba bem.
+
+
+* Terminologia: Instrução, Educação, Treinamento
+
+## Jogos educativos
+* Aprender jogando: tendência, não revolução.
+* Perspectiva crítica: é embaçado mudar a educação. Dentre elas, a de jogos.
+* Está dado o problema. Tá feito o desafio. Provem que eu estou errado.
 
 ## Jogos educativos
 * Votação: é educativo ou não é?
 * Sendo assim, por que alguns jogos são "educativos"?
 * Dá para fazer mais do que aquilo da App Store.
 
-# Conteúdos feitos
-* Terminologia: Instrução, Educação, Treinamento
+-
 
-
-## Como aprendemos?
-* Reflexão: pense em algo que você saiba bem.
+[Cole](https://docs.google.com/file/d/0B-D7NHTmyc54dlRiU2xlbEJabFk/edit)

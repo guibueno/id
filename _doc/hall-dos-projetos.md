@@ -15,7 +15,7 @@ Participei de várias paradas também, sempre sem grandes sucessos.
 * Tap Tap!
 * Mimic Method
 * TPR
-* Magnetize
+* [Magnetize](https://docs.google.com/presentation/d/1EkNM0BgsAWEHx2w5XsiWZj6AQNUOEy4Usx2bcPS-UE4/edit#slide=id.g69cfee135_00)
 * Google Analytics
 * Common Core Math
 * staRt
