@@ -1,4 +1,4 @@
-# Conteúdo
+# Introdução
 
 ## Padlet
 
@@ -9,7 +9,7 @@
 
 -
 
-# Discussão
+# Conceitos
 
 ## O que é aprender?
 * Definição de Mayer, dentre tantas outras.
@@ -26,22 +26,32 @@
 * Escolarizando o mundo mostra bem isso, vale assistir.
 * Sistema político e de produção circunstancial.
 
-## 
-
-
-
-
 -
 
 # 
 
-
-
-* Nesse contexto todo, eu vim falar de jogos educativos.
-
-* O que vocês acham sobre jogos educativos?
-* Seria simples dizer que será a revolução.
+## Design instrucional
+* História de tentativas de melhorar educação.
+* O problema não são as mídias, mas o uso educacional.
 * Revolucionar a educação é uma tentativa árdua.
+
+## Jogos educativos
+* Nesse contexto todo, eu vim falar de jogos educativos.
+* O que vocês acham sobre jogos educativos?
+
+## É educativo ou não é?
+* Votação e argumentação: tudo pode ser educativo.
+* Educação vs. Instrução vs. Treinamento
+* Jogos educativos não são a escola gamificada.
+
+
+-
+
+# Oficina
+
+
+
+
 
 
 
@@ -50,8 +60,6 @@
 
 ## Como aprendemos?
 * Reflexão: pense em algo que você saiba bem.
-
-
 * Terminologia: Instrução, Educação, Treinamento
 
 ## Jogos educativos
