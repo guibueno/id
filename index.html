@@ -78,8 +78,10 @@
                     </section>
                     <section data-autoslide="1" data-menu-title="03. Quem é Gui Bueno?">
                         <h1>Gui Bueno</h1>
-                        <h2 class="fragment">Pecha Kucha 20x20</h2>
-                        <p class="fragment">dividido por 2</p>
+                        <!-- <h2 class="fragment">Pecha Kucha 20x20</h2>
+                        <p class="fragment">dividido por 2</p> -->
+                        <h2>Pecha Kucha 20x20</h2>
+                        <p>dividido por 2</p>
                         <aside class="notes">
                             Eu detesto introduções acadêmicas, quando a pessoa que palestra fala durante 20 minutos sobre sua trajetória inteira.
                             Por outro lado, dependendo de como você chegou a este link, você pode não saber quem eu sou ou o que faço.
@@ -91,10 +93,10 @@
                             A ideia é deixar as apresentações bastante visuais e transmitir as informações de um modo rápido e envolvente.
 
                             Bom, vou fazer um Pecha Kucha dividido por 2, ou seja, 10 slides de 10 segundos, para contar sobre a minha vida.
-                            Vamos lá: contagem regressiva.
+                            // Vamos lá: contagem regressiva.
                         </aside>
                     </section>
-                    <section data-autoslide="800" data-menu-title="&mdash; <strong>Pecha Kucha</strong>: 5, 4, 3, 2, 1">
+                    <!-- <section data-autoslide="800" data-menu-title="&mdash; <strong>Pecha Kucha</strong>: 5, 4, 3, 2, 1">
                         <h1>
                             <spam class="fragment">5 </spam>
                             <spam class="fragment">4 </spam>
@@ -102,7 +104,7 @@
                             <spam class="fragment">2 </spam>
                             <spam class="fragment">1 </spam>
                         </h1>
-                    </section>
+                    </section> -->
                     <section data-background="images/pecha-coding.jpg" data-autoslide="11500">
                         <h2 class="highlight">
                             <span class="hide">&mdash;</span>
@@ -211,12 +213,12 @@
                         <h1 class="in-the-top" style="color:red;">
                             <span class="hide">&mdash;</span>
                             E agora?
-                            <aside class="notes">
-                                Depois de dois anos fora, voltei ao Brasil. Isso faz um pouco mais de 6 meses,
-                                mas confesso que ainda estou um tanto perdido, organizando minha vida e minha carreira,
-                                sem saber ao certo que vem pela frente.
-                            </aside>
                         </h1>
+                        <aside class="notes">
+                            Depois de dois anos fora, voltei ao Brasil. Isso faz um pouco mais de 6 meses,
+                            mas confesso que ainda estou um tanto perdido, organizando minha vida e minha carreira,
+                            sem saber ao certo que vem pela frente.
+                        </aside>
                     </section>
                     <section data-background="images/intro-cellphone-nohands.jpeg" data-autoslide="30000" data-menu-title="04. Meus principais interesses">
                         <div>
@@ -938,7 +940,7 @@ gob.bueno@gmail.com
                 progress: true,
                 
                 // Global auto-slide parameter, in miliseconds
-                autoSlide: 60000,
+                autoSlide: false,
                 // Set "data-autoslide" parameter to control slide-by-slide timing
                 // Fragments counts as Reveal.next();, so it counts as a slide change
                 
@@ -956,7 +958,7 @@ gob.bueno@gmail.com
                 textToSpeechURL: null,  // the URL to the text to speech converter
                 defaultText: false,     // use slide text as default for the text to speech converter
                 advance: 0,         // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance
-                autoplay: false,    // automatically start slideshow
+                autoplay: true,    // automatically start slideshow
                 defaultDuration: 5, // default duration in seconds if no audio is available
                 playerOpacity: 0.05,    // opacity value of audio player if unfocused
                 startAtFragment: false, // when moving to a slide, start at the current fragment or at the start of the slide
@@ -978,20 +980,20 @@ gob.bueno@gmail.com
                             { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
                             { src: 'plugin/zoom-js/zoom.js', async: true },
                             { src: 'plugin/menu/menu.js' },
-                { src: 'plugin/notes/notes.js', async: true },
+                            { src: 'plugin/notes/notes.js', async: true },
                 /*
                 Glossary ==> Callback funtions:
                 Functions that happen after the external
                 dependencies (libraries, i.e.) are loaded
                 */
                 
-                //    { src: 'plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },
-                //    { src: 'plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
+                        { src: 'plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },
+                        { src: 'plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
                         ],
                 keyboard: {
-                //    82: function() { Recorder.toggleRecording(); },   // press 'r' to start/stop recording
-                //    90: function() { Recorder.downloadZip(); },   // press 'z' to download zip containing audio files
-                //    84: function() { Recorder.fetchTTS(); }   // press 't' to fetch TTS audio files
+                    82: function() { Recorder.toggleRecording(); },   // press 'r' to start/stop recording
+                    90: function() { Recorder.downloadZip(); },   // press 'z' to download zip containing audio files
+                    84: function() { Recorder.fetchTTS(); }   // press 't' to fetch TTS audio files
                 }
                     });
                 </script>
